@@ -32,3 +32,6 @@ So instead, it works like a controlled sandbox:
 - everything else is ignored
 
 If you don’t see a note in the graph, it’s because it isn’t a node.
+
+<img width="500" height="542" alt="screenshot-working graph" src="https://github.com/user-attachments/assets/3614f9d3-e5af-4b0e-9357-ddb87884b3aa" />
+
