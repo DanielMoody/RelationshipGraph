@@ -21,13 +21,7 @@ This plugin creates a dedicated graph view where:
 
 This plugin does not pull in your entire vault. Only notes inside the configured node folder (default: GraphNodes) exist in the graph.
 
-That’s intentional. If it scanned everything:
-
-it would inject metadata into random notes
-
-your graph would turn into visual noise
-
-performance would tank on large vaults
+That’s intentional. If it scanned everything, it would inject metadata into random notes.
 
 So instead, it works like a controlled sandbox:
 
