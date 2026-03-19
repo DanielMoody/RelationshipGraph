@@ -3,7 +3,7 @@ A canvas-based relationship graph for Obsidian that treats notes as nodes and le
 
 This is not a tag system, and not the built-in graph view. It’s a manual, spatial graph you control directly.
 
-##What it does
+## What it does
 
 This plugin creates a dedicated graph view where:
 
@@ -17,7 +17,7 @@ Everything is interactive: click, drag, connect, rename, delete
 
 Nodes are real files. The graph is just a visual layer on top.
 
-##Node Scope (Read This Before You Get Confused)
+## Node Scope (Read This Before You Get Confused)
 
 This plugin does not pull in your entire vault.
 
